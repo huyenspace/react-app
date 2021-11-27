@@ -8,7 +8,8 @@ function App() {
         <h1>Weather App</h1>
         <Weather />
         <h6>
-          <a href="#">Open-source code</a> by Huyen Nguyen
+          <a href="https://github.com/huyenspace/react-app">Open-source code</a>{" "}
+          by Huyen Nguyen
         </h6>
       </header>
     </div>
